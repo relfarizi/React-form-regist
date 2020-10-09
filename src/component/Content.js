@@ -223,6 +223,7 @@ class Content extends React.Component {
 
                         
                     </form>
+                    <button>Sign up</button>
                 </div>
                 
                 
